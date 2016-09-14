@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocalizationTest</string>
+    <string name="name">My name is George!</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+</resources>
